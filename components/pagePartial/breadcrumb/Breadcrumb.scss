@@ -1,0 +1,11 @@
+@import '../../../assets/scss/variables.scss';
+
+.breadcrumb-top {
+  margin: 0 auto;
+  margin-bottom: 16px;
+  width: 90%;
+
+  span {
+    cursor: default;
+  }
+}
